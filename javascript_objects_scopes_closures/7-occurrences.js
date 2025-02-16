@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 
 exports.nbOccurences = function (list, searchElement) {
@@ -10,4 +9,3 @@ exports.nbOccurences = function (list, searchElement) {
   });
   return num;
 };
-
